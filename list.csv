@@ -47,7 +47,7 @@ google.ucany.net,低,https://google.ucany.net,YES,NO,中国浙江金华 电信,1
 119.28.4.112,低,,YES,YES,中国香港腾讯云,,,,"443,80"
 g.luciaz.me,中、稳定,https://g.luciaz.me,YES,NO,美国加利福尼亚洛杉矶,相对正规,,,"443,80"
 googlehnzyc.azurewebsites.net,低,https://googlehnzyc.azurewebsites.net,YES,NO,中国香港微软云,,,,"443,80"
-note.cm,中,https://note.cm,,NO,美国加利福尼亚洛杉矶,被Google检测出异常流量,,,"443,80"
+note.cm,中,https://note.cm,NO,NO,美国加利福尼亚洛杉矶,被Google检测出异常流量,,,"443,80"
 193.106.174.190,中,,YES,YES,俄罗斯莫斯科,,,,"443,80"
 193.106.174.197,中,,YES,YES,俄罗斯莫斯科,,,,"443,80"
 193.111.210.151,中,,YES,YES,德国/瑞士,,,,"443,80"
