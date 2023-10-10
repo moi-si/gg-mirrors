@@ -1,4 +1,4 @@
-镜像,延迟,URL,可用,Bridge,地区,注,禁Ping,证书,Port
+镜像,延迟,URL,可用,Port forwarding,地区,注,禁Ping,证书,Port
 guge.xze.cc,中,https://guge.xze.cc,YES,NO,美国弗吉尼亚阿什本,,,,"443,80"
 jp-2.dogge.info,低,https://jp-2.dogge.info,YES,NO,IP属地芬兰，语言日本,,,,443
 173.82.209.207,中,https://173.82.209.207,YES,NO,美国加利福尼亚洛杉矶,,,无效,"443,80"
