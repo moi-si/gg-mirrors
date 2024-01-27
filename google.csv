@@ -1,64 +1,44 @@
 镜像,延迟,URL,可用,Port forwarding,地区,注,禁Ping,证书,Port
-guge.xze.cc,中,https://guge.xze.cc,YES,NO,美国弗吉尼亚阿什本,,,,"443,80"
-jp-2.dogge.info,低,https://jp-2.dogge.info,YES,NO,IP属地芬兰，语言日本,,,,443
-173.82.209.207,中,https://173.82.209.207,YES,NO,美国加利福尼亚洛杉矶,,,无效,"443,80"
+jp-1.dogge.info,低,https://jp-1.dogge.info,YES,NO,日本,,,,443
 aa.qq.gg,低,https://aa.qq.gg,YES,NO,中国香港优刻云,,,过期,"443,80"
-ruf.191006.xyz,中,https://ruf.191006.xyz,YES,NO,俄罗斯莫斯科,,,,443
+ruf.191006.xyz,中,https://ruf.191006.xyz,YES,NO,俄罗斯莫斯科,,,过期,443
 5.2.77.64,中,,YES,YES,荷兰弗莱福兰德龙滕,,,,443
 204.93.162.135,中,https://204.93.162.135,YES,NO,美国伊利诺伊芝加哥,,,无效,443
-164.155.201.9,较低,https://164.155.201.9,YES,NO,美国加利福尼亚圣何塞,,,,443
 119.8.99.227,低,https://119.8.99.227,YES,NO,中国香港华为云,,,无效,443
-119.8.112.43,低,https://119.8.112.43,YES,NO,中国香港华为云,,,无效,443
-119.8.30.111,低,https://119.8.30.111,YES,NO,中国香港华为云,,,无效,443
+google.bugbaba.com,低,https://google.bugbaba.com,YES,NO,中国香港华为云,,,,443
 18.117.237.19,中,,YES,YES,美国俄亥俄都柏林 亚马逊云,,YES,,443
 85.143.217.82,中,,YES,YES,俄罗斯圣彼得堡，语言土耳其,,,,443
 85.143.216.129,中,,YES,YES,俄罗斯圣彼得堡,,,,443
 85.143.223.79,中,,YES,YES,俄罗斯圣彼得堡,,,,443
-136.144.214.174,中,https://136.144.214.174,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,无效,443
-136.144.214.190,中,https://136.144.214.190,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,无效,443
 136.144.212.50,中,https://136.144.212.50,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,无效,443
 136.144.236.172,中,https://136.144.236.172,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,无效,443
-minocw.survey-quest.nl,中,https://minocw.survey-quest.nl,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,,443
 136.144.243.74,中,https://136.144.243.74,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,无效,443
-koffie-smaaktest.nl,中,https://koffie-smaaktest.nl,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,,443
+koffie-smaaktest.nl,中,https://koffie-smaaktest.nl,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,无效,443
 136.144.215.174,中,https://136.144.215.174,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,无效,443
-136-144-247-46.colo.transip.net,中,https://136-144-247-46.colo.transip.net,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,,443
+136-144-247-46.colo.transip.net,中,https://136-144-247-46.colo.transip.net,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,HSTS,443
 85.10.149.228,中,https://85.10.149.228,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,无效,443
-dnshulp.nl,中,https://dnshulp.nl,YES,NO,荷兰北荷兰阿姆斯特丹,不保存cookie,,,443
+dnshulp.nl,中,https://dnshulp.nl,YES,NO,荷兰北荷兰阿姆斯特丹,不保存cookie,,HSTS,443
 46.149.72.94,中,,YES,YES,俄罗斯莫斯科,,YES,,443
 46.149.74.224,中,,YES,YES,俄罗斯莫斯科,,,,443
 46.149.74.179,中,,NO,YES,俄罗斯莫斯科,443被封,YES,,443
 45.14.107.25,低,https://45.14.107.25,YES,NO,美国加利福尼亚洛杉矶,,,无效,443
 124.156.132.66,低,https://124.156.132.66,YES,NO,中国香港腾讯云,,,无效,443
 52.68.92.21,低,https://52.68.92.21,YES,NO,日本东京亚马逊云,,YES,无效,"443,80"
-52.72.105.167,中,https://52.72.105.167,YES,NO,美国弗吉尼亚阿什本 亚马逊云,,YES,无效,"443,80"
 106.75.114.78,低,,YES,YES,中国北京优刻云,128.1.131.171(中国香港Zenlayer；不可直接访问)的中转,,,"443,80"
 212.64.116.220,低,,YES,YES,中国上海腾讯云,119.28.143.141(中国香港腾讯云)的中转,,,"443,80"
 119.28.143.141,低,,YES,YES,中国香港腾讯云,,,,"443,80"
 106.75.167.74,低,,YES,YES,中国广东广州 优刻云,128.1.136.175(中国香港Zenlayer；不可直接访问)的中转,,,"443,80"
-int1.cloudarchives.net,中,https://int1.cloudarchives.net,YES,NO,美国弗吉尼亚斯特灵 微软云,,YES,,"443,80"
-practiceshq.com,中,https://practiceshq.com,YES,NO,美国弗吉尼亚斯特灵 微软云,,YES,过期,"443,80"
-43.154.200.149,低,https://43.154.200.149,YES,NO,中国香港腾讯云,,,无效,"443,80"
-codingforjoy.com,低,https://codingforjoy.com,YES,NO,中国香港阿里云,,,,"443,80"
-www.jiangmiaomiao.com,低,https://www.jiangmiaomiao.com,YES,NO,中国香港阿里云,苗苗一下你就知道,,,"443,80"
-s.qxjtguanjia.com,低,https://s.qxjtguanjia.com,YES,NO,中国香港阿里云,,,,"443,80"
-search.fatwo.cn,低,https://search.fatwo.cn,YES,NO,中国香港阿里云,,,,"443,80"
-google.ucany.net,低,https://google.ucany.net,YES,NO,中国浙江金华 电信,146.56.146.234(韩国首尔腾讯云)的中转,YES,,"443,80"
+s.qxjtguanjia.com,低,https://s.qxjtguanjia.com,YES,NO,中国香港阿里云,,,过期,"443,80"
 119.28.4.112,低,,YES,YES,中国香港腾讯云,,,,"443,80"
 g.luciaz.me,中、稳定,https://g.luciaz.me,YES,NO,美国加利福尼亚洛杉矶,相对正规,,,"443,80"
-googlehnzyc.azurewebsites.net,低,https://googlehnzyc.azurewebsites.net,YES,NO,中国香港微软云,,,,"443,80"
-note.cm,中,https://note.cm,NO,NO,美国加利福尼亚洛杉矶,被Google检测出异常流量,,,"443,80"
+note.cm,中,https://note.cm,NO,NO,美国加利福尼亚洛杉矶,被Google检测出异常流量,,HSTS,"443,80"
 193.106.174.190,中,,YES,YES,俄罗斯莫斯科,,,,"443,80"
 193.106.174.197,中,,YES,YES,俄罗斯莫斯科,,,,"443,80"
 193.111.210.151,中,,YES,YES,德国/瑞士,,,,"443,80"
 rkd.muffy.top,中,https://rkd.muffy.top,YES,NO,美国加利福尼亚洛杉矶,,,,"443,80"
-173.82.251.203,中,https://173.82.251.203,YES,NO,美国加利福尼亚洛杉矶,,,无效,"443,80"
-194.87.62.158,中,https://194.87.62.158,YES,NO,俄罗斯托木斯克,,,,"443,80"
+194.87.62.158,中,https://194.87.62.158,YES,NO,俄罗斯托木斯克,,,无效,"443,80"
 muffy.top,中,https://muffy.top,YES,NO,泛播Cloudflare,可能是rkd.muffy.top套了Cloudflare,,,"443,80"
 47.93.191.212,低,,YES,YES,中国北京阿里云,47.75.244.90(中国香港阿里云；不可直接访问)的中转,,,"443,80"
-search.ecnu.cf,中,https://search.ecnu.cf,YES,NO,美国加利福尼亚洛杉矶,,,,"443,80"
-search.ahau.cf,中,https://search.ahau.cf,YES,NO,美国加利福尼亚洛杉矶,,,,"443,80"
-google.sb250.gq,较低,https://google.sb250.gq,YES,NO,BunnyCDN,,,过期,443
 94.241.175.195,中,,YES,YES,俄罗斯图拉,,,,443
 185.186.146.235,较低,,YES,YES,美国加利福尼亚洛杉矶,,,,"443,80"
 80.66.64.119,中,,YES,YES,俄罗斯莫斯科,,,,"443,80"
