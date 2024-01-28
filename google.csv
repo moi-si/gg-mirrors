@@ -35,7 +35,6 @@ note.cm,中,https://note.cm,NO,NO,美国加利福尼亚洛杉矶,被Google检测
 193.106.174.190,中,,YES,YES,俄罗斯莫斯科,,,,"443,80"
 193.106.174.197,中,,YES,YES,俄罗斯莫斯科,,,,"443,80"
 193.111.210.151,中,,YES,YES,德国/瑞士,,,,"443,80"
-rkd.muffy.top,中,https://rkd.muffy.top,YES,NO,美国加利福尼亚洛杉矶,,,,"443,80"
 194.87.62.158,中,https://194.87.62.158,YES,NO,俄罗斯托木斯克,,,无效,"443,80"
 muffy.top,中,https://muffy.top,YES,NO,泛播Cloudflare,可能是rkd.muffy.top套了Cloudflare,,,"443,80"
 47.93.191.212,低,,YES,YES,中国北京阿里云,47.75.244.90(中国香港阿里云；不可直接访问)的中转,,,"443,80"
