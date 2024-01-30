@@ -15,7 +15,7 @@ google.bugbaba.com,低,https://google.bugbaba.com,YES,NO,中国香港华为云,,
 136.144.243.74,中,https://136.144.243.74,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,无效,443
 koffie-smaaktest.nl,中,https://koffie-smaaktest.nl,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,无效,443
 136.144.215.174,中,https://136.144.215.174,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,无效,443
-136-144-247-46.colo.transip.net,中,https://136-144-247-46.colo.transip.net,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,HSTS,443
+136.144.247.46,中,https://136.144.247.46,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,HSTS,443
 85.10.149.228,中,https://85.10.149.228,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,无效,443
 dnshulp.nl,中,https://dnshulp.nl,YES,NO,荷兰北荷兰阿姆斯特丹,不保存cookie,,HSTS,443
 46.149.72.94,中,,YES,YES,俄罗斯莫斯科,,YES,,443
