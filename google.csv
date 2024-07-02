@@ -1,4 +1,5 @@
-镜像,延迟,URL,可用,Port forwarding,地区,注,禁Ping,证书,Port
+镜像,延迟,URL,可用,Port forwarding,地区,注,禁Ping,证书,端口
+gsearch.g.shellten.top,中,https://gsearch.g.shellten.top,YES,NO,泛播Cloudflare,accessing G with IPV6,,,"443,80"
 aa.qq.gg,低,https://aa.qq.gg,YES,NO,中国香港优刻云,,,过期,"443,80"
 ruf.191006.xyz,中,https://ruf.191006.xyz,YES,NO,俄罗斯莫斯科,,,过期,443
 5.2.77.64,中,,YES,YES,荷兰弗莱福兰德龙滕,,,,443
