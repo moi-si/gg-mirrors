@@ -7,7 +7,7 @@ g.airu.cc,中/超时,https://g.airu.cc,YES,NO,泛播Cloudflare,,,,"443,80"
 150.230.220.49,中/超时,https://150.230.220.49,YES,NO,日本东京,g.airu.cc源IP,,无效,"443,80"
 chat.ourbible.co,中,https://chat.ourbible.co,YES,NO,新加坡阿里云,,,过期,"443,80"
 47.236.182.58,中,https://47.236.182.58,YES,NO,新加坡阿里云,,,无效,443
-google.doufu.asia,较低,google.doufu.asia,YES,NO,中国香港亚马逊云,,YES,,"443,80"
+google.doufu.asia,较低,https://google.doufu.asia,YES,NO,中国香港亚马逊云,,YES,,"443,80"
 18.170.131.255,中,https://18.170.131.255,YES,NO,英国英格兰伦敦 亚马逊云,不保存cookie,,无效,"443,80"
 36289.hostkey.in,中,https://36289.hostkey.in,YES,NO,美国纽约加登城,,,,"443,80"
 rkd.muffy.top,中,https://rkd.muffy.top,YES,NO,泛播Cloudflare,,,,"443,80"
