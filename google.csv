@@ -1,4 +1,16 @@
 镜像,延迟,URL,可用,Port Forwarding,地区,注,禁Ping,证书,端口
+167.235.201.88,中,https://167.235.201.88,YES,NO,德国萨克森法尔肯施泰因,,,,"443,80"
+v1.k8selk.top,中,https://v1.k8selk.top,YES,NO,日本东京,Goooooooooooooooooo,,,"443,80"
+google.xxt.us.kg,中,https://google.xxt.us.kg,YES,NO,泛播CLoudflare,,,,"443,80"
+google.weibao.us.kg,中,https://google.weibao.us.kg,YES,NO,泛播Cloudflare,,,,"443,80"
+g.airu.cc,中/超时,https://g.airu.cc,YES,NO,泛播Cloudflare,,,,"443,80"
+150.230.220.49,中/超时,https://150.230.220.49,YES,NO,日本东京,g.airu.cc源IP,,无效,"443,80"
+chat.ourbible.co,中,https://chat.ourbible.co,YES,NO,新加坡阿里云,,,过期,"443,80"
+47.236.182.58,中,https://47.236.182.58,YES,NO,新加坡阿里云,,,无效,443
+google.doufu.asia,较低,google.doufu.asia,YES,NO,中国香港亚马逊云,,YES,,"443,80"
+18.170.131.255,中,https://18.170.131.255,YES,NO,英国英格兰伦敦 亚马逊云,不保存cookie,,无效,"443,80"
+36289.hostkey.in,中,https://36289.hostkey.in,YES,NO,美国纽约加登城,,,,"443,80"
+rkd.muffy.top,中,https://rkd.muffy.top,YES,NO,泛播Cloudflare,,,,"443,80"
 ge1.azurewebsites.net,较低,https://ge1.azurewebsites.net,YES,NO,韩国首尔微软云,,,,"443,80"
 google.jsglr1024.club,中,https://google.jsglr1024.club,YES,NO,美国新泽西皮斯卡特维,以IPV6连接Google,,,"443,80"
 gsearch.g.shellten.top,中,https://gsearch.g.shellten.top,YES,NO,泛播Cloudflare,以IPV6连接Google,,,"443,80"
@@ -17,7 +29,7 @@ google.bugbaba.com,低,https://google.bugbaba.com,NO,NO,中国香港华为云,,,
 136.144.243.74,中,https://136.144.243.74,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,无效,443
 koffie-smaaktest.nl,中,https://koffie-smaaktest.nl,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,无效,443
 136.144.215.174,中,https://136.144.215.174,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,无效,443
-136.144.247.46,中,https://136.144.247.46,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,HSTS,443
+136.144.247.46,中,https://136.144.247.46,NO,NO,荷兰南荷兰鹿特丹,不保存cookie,,HSTS,443
 85.10.149.228,中,https://85.10.149.228,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,无效,443
 46.149.72.94,中,,YES,YES,俄罗斯莫斯科,,YES,,443
 46.149.74.224,中,,YES,YES,俄罗斯莫斯科,,,,443
@@ -46,3 +58,4 @@ go.netis.io,中,https://go.netis.io,YES,NO,澳大利亚新南威尔士悉尼,,,,
 193.219.97.203,中,,YES,YES,英国,,,,"443,80"
 go.euqaz.com,低,https://go.euqaz.com,YES,NO,中国香港Cloudinnovation,,,,"443,80"
 jp-1.dogge.info,低,https://jp-1.dogge.info,NO,NO,日本,,,,443
+g.hk.yzhub.cn,低,https://g.hk.yzhub.cn,YES,NO,中国浙江宁波 电信,,,,"443,80"
