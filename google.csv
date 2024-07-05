@@ -1,5 +1,5 @@
 镜像,延迟,URL,可用,Port Forwarding,地区,注,禁Ping,证书,端口
-167.235.201.88,中,https://167.235.201.88,YES,NO,德国萨克森法尔肯施泰因,,,,"443,80"
+167.235.201.88,中,https://167.235.201.88,YES,NO,德国萨克森法尔肯施泰因,,,无效,"443,80"
 v1.k8selk.top,中,https://v1.k8selk.top,YES,NO,日本东京,Goooooooooooooooooo,,,"443,80"
 google.xxt.us.kg,中,https://google.xxt.us.kg,YES,NO,泛播CLoudflare,,,,"443,80"
 google.weibao.us.kg,中,https://google.weibao.us.kg,YES,NO,泛播Cloudflare,,,,"443,80"
