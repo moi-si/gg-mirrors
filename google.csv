@@ -1,19 +1,17 @@
 镜像,延迟,URL,可用,Port Forwarding,地区,注,禁Ping,证书,端口
-167.235.201.88,中,https://167.235.201.88,YES,NO,德国萨克森法尔肯施泰因,,,无效,"443,80"
 v1.k8selk.top,中,https://v1.k8selk.top,YES,NO,日本东京,Goooooooooooooooooo,,,"443,80"
-google.xxt.us.kg,中,https://google.xxt.us.kg,YES,NO,泛播CLoudflare,,,,"443,80"
+google.xxt.us.kg,中,https://google.xxt.us.kg,YES,NO,泛播CLoudflare,不保存cookie,,,"443,80"
 google.weibao.us.kg,中,https://google.weibao.us.kg,YES,NO,泛播Cloudflare,,,,"443,80"
-g.airu.cc,中/超时,https://g.airu.cc,YES,NO,泛播Cloudflare,,,,"443,80"
-150.230.220.49,中/超时,https://150.230.220.49,YES,NO,日本东京,g.airu.cc源IP,,无效,"443,80"
+g.airu.cc,中／超时,https://g.airu.cc,YES,NO,泛播Cloudflare,,,,"443,80"
+150.230.220.49,中／超时,https://150.230.220.49,YES,NO,日本东京,g.airu.cc源IP,,无效,"443,80"
 chat.ourbible.co,中,https://chat.ourbible.co,YES,NO,新加坡阿里云,,,过期,"443,80"
 47.236.182.58,中,https://47.236.182.58,YES,NO,新加坡阿里云,,,无效,443
-google.doufu.asia,较低,https://google.doufu.asia,YES,NO,中国香港亚马逊云,,YES,,"443,80"
+google.doufu.asia,较低,https://google.doufu.asia,NO,NO,中国香港亚马逊云,,YES,HSTS,"443,80"
 18.170.131.255,中,https://18.170.131.255,YES,NO,英国英格兰伦敦 亚马逊云,不保存cookie,,无效,"443,80"
 36289.hostkey.in,中,https://36289.hostkey.in,YES,NO,美国纽约加登城,,,,"443,80"
 rkd.muffy.top,中,https://rkd.muffy.top,YES,NO,泛播Cloudflare,,,,"443,80"
-ge1.azurewebsites.net,较低,https://ge1.azurewebsites.net,YES,NO,韩国首尔微软云,,,,"443,80"
 google.jsglr1024.club,中,https://google.jsglr1024.club,YES,NO,美国新泽西皮斯卡特维,以IPV6连接Google,,,"443,80"
-gsearch.g.shellten.top,中,https://gsearch.g.shellten.top,YES,NO,泛播Cloudflare,以IPV6连接Google,,,"443,80"
+gsearch.g.shellten.top,中,https://gsearch.g.shellten.top,NO,NO,泛播Cloudflare,SNI阻断；以IPV6连接Google,,,"443,80"
 aa.qq.gg,低,https://aa.qq.gg,YES,NO,中国香港优刻云,,,过期,"443,80"
 ruf.191006.xyz,中,https://ruf.191006.xyz,YES,NO,俄罗斯莫斯科,,,过期,443
 5.2.77.64,中,,YES,YES,荷兰弗莱福兰德龙滕,,,,443
@@ -25,16 +23,9 @@ google.bugbaba.com,低,https://google.bugbaba.com,NO,NO,中国香港华为云,,,
 85.143.216.129,中,,YES,YES,俄罗斯圣彼得堡,,,,443
 85.143.223.79,中,,YES,YES,俄罗斯圣彼得堡,,,,443
 136.144.212.50,中,https://136.144.212.50,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,无效,443
-136.144.236.172,中,https://136.144.236.172,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,无效,443
-136.144.243.74,中,https://136.144.243.74,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,无效,443
-koffie-smaaktest.nl,中,https://koffie-smaaktest.nl,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,无效,443
-136.144.215.174,中,https://136.144.215.174,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,无效,443
-136.144.247.46,中,https://136.144.247.46,NO,NO,荷兰南荷兰鹿特丹,不保存cookie,,HSTS,443
-85.10.149.228,中,https://85.10.149.228,YES,NO,荷兰南荷兰鹿特丹,不保存cookie,,无效,443
 46.149.72.94,中,,YES,YES,俄罗斯莫斯科,,YES,,443
 46.149.74.224,中,,YES,YES,俄罗斯莫斯科,,,,443
 46.149.74.179,中,,NO,YES,俄罗斯莫斯科,443被封,YES,,443
-45.14.107.25,低,https://45.14.107.25,YES,NO,美国加利福尼亚洛杉矶,,,无效,443
 52.68.92.21,低,https://52.68.92.21,YES,NO,日本东京亚马逊云,,YES,无效,"443,80"
 106.75.114.78,低,,YES,YES,中国北京优刻云,128.1.131.171(中国香港Zenlayer；不可直接访问)的中转,,,"443,80"
 212.64.116.220,低,,YES,YES,中国上海腾讯云,119.28.143.141(中国香港腾讯云)的中转,,,"443,80"
@@ -42,8 +33,8 @@ koffie-smaaktest.nl,中,https://koffie-smaaktest.nl,YES,NO,荷兰南荷兰鹿特
 106.75.167.74,低,,YES,YES,中国广东广州 优刻云,128.1.136.175(中国香港Zenlayer；不可直接访问)的中转,,,"443,80"
 s.qxjtguanjia.com,低,https://s.qxjtguanjia.com,YES,NO,中国香港阿里云,,,过期,"443,80"
 119.28.4.112,低,,YES,YES,中国香港腾讯云,,,,"443,80"
-g.luciaz.me,中、稳定,https://g.luciaz.me,YES,NO,美国加利福尼亚洛杉矶,相对正规,,,"443,80"
-note.cm,中,https://note.cm,YES,NO,美国加利福尼亚洛杉矶,,,HSTS,"443,80"
+g.luciaz.me,较低,https://g.luciaz.me,YES,NO,美国加利福尼亚洛杉矶,部分地区DNS污染,,,"443,80"
+note.cm,中,https://note.cm,YES,NO,美国加利福尼亚洛杉矶,,,,"443,80"
 193.106.174.190,中,,YES,YES,俄罗斯莫斯科,,,,"443,80"
 193.106.174.197,中,,YES,YES,俄罗斯莫斯科,,,,"443,80"
 193.111.210.151,中,,YES,YES,德国/瑞士,,,,"443,80"
@@ -57,5 +48,3 @@ google.stevenkyo.club,较低,https://google.stevenkyo.club,YES,NO,日本大阪,,
 go.netis.io,中,https://go.netis.io,YES,NO,澳大利亚新南威尔士悉尼,,,,"443,80"
 193.219.97.203,中,,YES,YES,英国,,,,"443,80"
 go.euqaz.com,低,https://go.euqaz.com,YES,NO,中国香港Cloudinnovation,,,,"443,80"
-jp-1.dogge.info,低,https://jp-1.dogge.info,NO,NO,日本,,,,443
-g.hk.yzhub.cn,低,https://g.hk.yzhub.cn,YES,NO,中国浙江宁波 电信,,,,"443,80"
