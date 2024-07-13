@@ -10,6 +10,7 @@ google.doufu.asia,较低,https://google.doufu.asia,NO,NO,中国香港亚马逊�
 18.170.131.255,中,https://18.170.131.255,YES,NO,英国英格兰伦敦 亚马逊云,不保存cookie,,无效,"443,80"
 36289.hostkey.in,中,https://36289.hostkey.in,YES,NO,美国纽约加登城,,,,"443,80"
 rkd.muffy.top,中,https://rkd.muffy.top,YES,NO,泛播Cloudflare,,,,"443,80"
+jh.muffy.top,中,https://jh.muffy.top,YES,NO,泛播Cloudflare,,,,"443,80"
 google.jsglr1024.club,中,https://google.jsglr1024.club,YES,NO,美国新泽西皮斯卡特维,以IPV6连接Google,,,"443,80"
 gsearch.g.shellten.top,中,https://gsearch.g.shellten.top,NO,NO,泛播Cloudflare,SNI阻断；以IPV6连接Google,,,"443,80"
 aa.qq.gg,低,https://aa.qq.gg,YES,NO,中国香港优刻云,,,过期,"443,80"
